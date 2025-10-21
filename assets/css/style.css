@@ -358,6 +358,7 @@ aside div p:last-child {
   font-size: 0.8em;
   text-align: right;
 }
+
 .topBtnContainer {
   display: inline-block;
   width: 50px;
@@ -398,6 +399,13 @@ aside div p:last-child {
   width: 50px;
   height: 50px;
   z-index: 2;
+  position: absolute;
+}
+.far.fa-caret-square-up {
+  font-size: 2em;
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
 
 /* FOOTER */
