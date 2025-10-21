@@ -119,6 +119,9 @@ section h2 {
   font-weight: bold;
   background-color: #a3a3a3;
   padding: 0px 1em;
+  width: 200px;
+  position: absolute;
+  top: -18px;
 }
 
 /* ELEMENTI NEL MAIN - ARTICLE */
@@ -249,6 +252,10 @@ iframe {
 
   iframe {
     height: 267px;
+  }
+  section {
+    height: 267px;
+    padding-top: 55px;
   }
 }
 
